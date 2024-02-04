@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "113912219463",
+    "project_id": "diri-home",
+    "storage_bucket": "diri-home.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113912219463:android:b141c7077426fc4bbaee62",
+        "android_client_info": {
+          "package_name": "com.applus.dirihome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC63_9-ycz3_xqy27vLeFXOmgsiL7NsIjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
