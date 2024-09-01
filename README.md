@@ -1,16 +1,12 @@
-# dirihome
 
-A new Flutter project.
+# EV KAPI ALARMI PROJESİ
 
-## Getting Started
+Bu projenin amacı evden çıktığınızda, tatile gittiğinizde evinize birisinin girip veya giren olduğunda giren kişiyi caydırmak ve etraftakilere haber vermek için kullanılabilir.
 
-This project is a starting point for a Flutter application.
+Evin içerisinde kapının yakınında mikrodenetleyici ile bir sesli alarm bulunur, Mobil uygulamamızdan yapacağınız konfigrasyonlar ile; Kapının açılıp kapandığında telefonunuza bildirim geleceği, Kapının son 1 gün içerisinde ki açılıp kapanma saatlerini, Tatil Modu: Eğer evden ayrıldığınızda eve birisinin girince kapının sesli alarmının çalmasını sağlayabilirsiniz. Buna şu konfigrasyonlarda dahildir, Kapı açıldıktan sonra alarmın kaç saniye boyunca çalacağı, alarmın ses düzeyi gibi.
 
-A few resources to get you started if this is your first Flutter project:
+## Teknolojiler
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Projemde Mikrodenetleyiciler için C++, Sunucu için node.js ve express.js, Veri Tabanı için Mysql, Mobil uygulama içinde Flutter SDK kullanılmıştır.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  
